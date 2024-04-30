@@ -1,2 +1,2 @@
-# First-Repository-PrepCourse
-Esta es una prueba del modulo2 del prep course de henry sobre crear un repositorio en git hub
+esta es una prueba de como editar un repositor remoto desde mi computadora y guardarlo en GitHUb
+
